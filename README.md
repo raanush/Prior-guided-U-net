@@ -11,9 +11,8 @@ Code and Dataset
 In this GitHub repository, the main executable file is:
 SGunet.py
 To run the model, place the target dataset inside the proposedunet folder.
-All datasets used in this work are public benchmark datasets. The SVM probability maps were generated separately and uploaded to Kaggle.
-The download link is provided below:
-Kaggle link: https://www.kaggle.com/datasets/raananaanjam/sgunet
+All datasets used in this work are public benchmark datasets. The RGB images used in this work correspond to publicly available building extraction benchmark datasets, including Inria, Massachusetts, and WHU.
+https://www.kaggle.com/datasets/sengulgs/whu-building-dataset
 _______________________________________________________________________________________________________________
 Required Dependencies
 
