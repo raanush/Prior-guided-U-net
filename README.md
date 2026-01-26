@@ -18,17 +18,29 @@ ________________________________________________________________________________
 Required Dependencies
 
 The following libraries are required to run the code:
+
 albumentations==1.4.3
+
 matplotlib==3.8.3
+
 numpy==1.26.4
+
 pandas==2.2.3
+
 opencv-python==4.9.0.80
+
 seaborn==0.13.2
+
 torch==2.2.2+cu118
+
 torchvision==0.17.2+cu118
+
 torchaudio==2.2.2+cu118
+
 torchmetrics==0.11.4
+
 tqdm==4.66.2
+
 segmentation_models_pytorch==0.4.0
 _______________________________________________________________________________________________________________
 
