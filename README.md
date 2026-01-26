@@ -39,7 +39,6 @@ This folder contains both Python scripts and Jupyter Notebook files for inferenc
 To perform a quick test:
 1. Download the trained model weights from the Releases section.
 2. Load the weights using the provided test code.
-
 3.Run inference on any input image.
 
 A sample test image is included in the folder for demonstration purposes
