@@ -12,7 +12,7 @@ In this GitHub repository, the main executable file is:
 SGunet.py
 To run the model, place the target dataset inside the proposedunet folder.
 All datasets used in this work are public benchmark datasets. The RGB images used in this work correspond to publicly available building extraction benchmark datasets, including Inria, Massachusetts, and WHU.
-https://www.kaggle.com/datasets/sengulgs/whu-building-dataset
+
 _______________________________________________________________________________________________________________
 Required Dependencies
 
